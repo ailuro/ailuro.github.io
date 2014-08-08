@@ -9,13 +9,13 @@ This site is used to explore my adventures in web development, be it at work or 
 ### Project List
 
 * Yonderesque Themes (Tumblr)
-  * #TH01: Lucky Bug
-  * #TH02: Card Tricks
-  * #TH03a: Bobbin
-  * #TH03b: Pipette
-  * #TH04: Unfurled
-  * #TH05: Receiving Light
-  * #TH06: Everbloom
+  * TH01: Lucky Bug
+  * TH02: Card Tricks
+  * TH03a: Bobbin
+  * TH03b: Pipette
+  * TH04: Unfurled
+  * TH05: Receiving Light
+  * TH06: Everbloom
 * Silva (COMING SOON)
 
 ### Contact me
