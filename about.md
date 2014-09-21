@@ -22,4 +22,5 @@ This site is used to explore my adventures in web development, be it at work or 
 ### Contact me
 
 [Send me a message!](http://yonderesque.tumblr.com/ask)
+
 [Tweet at me!](http://twitter.com/yonderesque)
