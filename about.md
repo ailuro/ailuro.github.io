@@ -4,6 +4,7 @@ title: About
 ---
 
 **Yonderesque** is the blog of a teenage girl from the UK, who works as a web developer part-time and has been making Tumblr themes since September 2012.
+
 This site is used to explore my adventures in web development, be it at work or at home, and any projects that may arise from what I'm learning every day! I may not be an expert now, but improving is certainly a lot of fun. :smiley:
 
 ### Project List
@@ -21,3 +22,4 @@ This site is used to explore my adventures in web development, be it at work or 
 ### Contact me
 
 [Send me a message!](http://yonderesque.tumblr.com/ask)
+[Tweet at me!](http://twitter.com/yonderesque)
